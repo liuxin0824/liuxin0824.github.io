@@ -4,6 +4,10 @@ I am a junior student from Shandong University(SDU),majoring in computer science
 
 ### introduction
 
+name: Xin Liu 
+  姓名：刘鑫
+  
+
 
 
 ### Jekyll Themes
