@@ -14,8 +14,8 @@ Xin Liu(刘鑫）
 
 ### education experience
 
-2017-09 --- NOW
-Shandong University
+2017-09 --- NOW   
+  Shandong University
 
 ### Address:
 
@@ -23,7 +23,7 @@ Shandong University (Tsingtao Campus), 72 Binhai Road, Jimo Qingdao, Shandong Pr
 
 ### e-mail:
 
-liuxin9908@gmail.com
+liuxin9908@gmail.com     
 673888736@qq.com
 
 
