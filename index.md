@@ -1,8 +1,8 @@
 ## Welcome to Xin Liu's homepage
 
-I am a junior student from Shandong University(SDU),majoring in computer science.
+Hello, this is Xin Liu (刘鑫). He is currently a junior student from the Taishan Honors College, Shandong University, majoring in computer science. He is also a research assistent with the iLearn Lab, School of Computer Science and Technology, Shandong University (Tsingtao campus), and the research interest is deep learning and information retrieval. He really loves music and is good at vocal and piano.
 
-### introduction
+### 
 
 name: Xin Liu 
   姓名：刘鑫
