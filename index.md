@@ -15,7 +15,7 @@ Xin Liu(刘鑫）
 ### education experience
 
 2017-09 --- NOW   
-  Shandong University
+    Shandong University
 
 ### Address:
 
